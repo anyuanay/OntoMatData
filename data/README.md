@@ -6,3 +6,7 @@
 5. Materails Project : https://docs.materialsproject.org/user-guide/materials-explorer/
 6. AFLOW: http://aflowlib.org/
 7. NIST Materials Resource Registry: https://materials.registry.nist.gov/
+8. Matmatch: https://matmatch.com/
+9. MEMSnet: https://www.memsnet.org/material/
+10. NIST Materials Data Repository: https://www.nist.gov/programs-projects/materials-data-repository
+11. Polymer Property Predictor and Database: https://pppdb.uchicago.edu/
