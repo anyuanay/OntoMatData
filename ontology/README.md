@@ -13,3 +13,4 @@
 12. Semantic Interoperability and Characterization of Data Provenance in Computational Molecular Engineering: https://pubs.acs.org/doi/10.1021/acs.jced.9b00739
 13. Novel materials discovery (NOMAD): https://nomad-lab.eu/
 14. NIST Materials Resource Registry: https://www.nist.gov/programs-projects/nist-materials-resource-registry
+15. Crystallographic Information Framework or CIF: https://www.iucr.org/resources/cif
