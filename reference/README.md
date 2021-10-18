@@ -10,3 +10,4 @@
 9. Materials science with large-scale data and informatics: Unlocking new opportunities: https://perssongroup.lbl.gov/papers/hill2016-mrsbull.pdf
 10. OPTIMADE, an API for exchanging materials data: https://www.nature.com/articles/s41597-021-00974-z
 11. An Ontology for the Materials Design Domain: https://arxiv.org/abs/2006.07712
+12. Materials Genome Initiative: https://www.mgi.gov/
