@@ -14,3 +14,4 @@
 13. Novel materials discovery (NOMAD): https://nomad-lab.eu/
 14. NIST Materials Resource Registry: https://www.nist.gov/programs-projects/nist-materials-resource-registry
 15. Crystallographic Information Framework or CIF: https://www.iucr.org/resources/cif
+16. OBO Foundry: http://www.obofoundry.org/
