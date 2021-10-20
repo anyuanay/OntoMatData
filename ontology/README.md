@@ -15,3 +15,4 @@
 14. NIST Materials Resource Registry: https://www.nist.gov/programs-projects/nist-materials-resource-registry
 15. Crystallographic Information Framework or CIF: https://www.iucr.org/resources/cif
 16. OBO Foundry: http://www.obofoundry.org/
+17. RXNO: reaction ontologies: https://github.com/rsc-ontologies/rxno/
