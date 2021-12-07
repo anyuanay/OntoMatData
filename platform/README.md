@@ -10,3 +10,4 @@
 9. SciBite: https://www.scibite.com/
 10. MeasEval: https://github.com/harperco/MeasEval
 11. ChemDataExtractor: http://chemdataextractor.org/
+12. Elsevier Knovel: https://app.knovel.com/kn
