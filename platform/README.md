@@ -7,3 +7,4 @@
 6. OPTIMADE: https://www.optimade.org/
 7. Citrination: https://citrination.com/
 8. Materials Intelligence: https://github.com/materialsintelligence
+9. SciBite: https://www.scibite.com/
