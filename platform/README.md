@@ -8,3 +8,4 @@
 7. Citrination: https://citrination.com/
 8. Materials Intelligence: https://github.com/materialsintelligence
 9. SciBite: https://www.scibite.com/
+10. MeasEval: https://github.com/harperco/MeasEval
