@@ -18,4 +18,4 @@
 17. RXNO: reaction ontologies: https://github.com/rsc-ontologies/rxno/
 18. The ontology repository for materials science: https://matportal.org/
 19. eNanoMapper Ontology: https://github.com/enanomapper/ontologies
-20. 
+20. Monod Disease Ontology: https://mondo.monarchinitiative.org/
