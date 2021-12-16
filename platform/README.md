@@ -11,3 +11,4 @@
 10. MeasEval: https://github.com/harperco/MeasEval
 11. ChemDataExtractor: http://chemdataextractor.org/
 12. Elsevier Knovel: https://app.knovel.com/kn
+13. EMBL-EBI Ontology Xref Service (OxO): https://www.ebi.ac.uk/spot/oxo/
