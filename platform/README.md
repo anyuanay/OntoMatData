@@ -16,3 +16,4 @@
 15. BridgeDb: https://bridgedb.github.io
 16. OTF Mapping Service: https://github.com/IHTSDO/OTF-Mapping-Service
 17. Mapping Commons: https://github.com/mapping-commons
+18. OMOP2OBO: https://github.com/callahantiff/OMOP2OBO
