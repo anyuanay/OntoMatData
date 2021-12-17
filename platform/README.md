@@ -13,3 +13,4 @@
 12. Elsevier Knovel: https://app.knovel.com/kn
 13. EMBL-EBI Ontology Xref Service (OxO): https://www.ebi.ac.uk/spot/oxo/
 14. EOSC-Life: https://www.eosc-life.eu/
+15. BridgeDb: https://bridgedb.github.io
