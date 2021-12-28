@@ -17,3 +17,4 @@
 16. OTF Mapping Service: https://github.com/IHTSDO/OTF-Mapping-Service
 17. Mapping Commons: https://github.com/mapping-commons
 18. OMOP2OBO: https://github.com/callahantiff/OMOP2OBO
+19. Chimera: A Bridge between Big Data Analysitics and Semantic Web Technologies: https://chimera-suite.github.io/
