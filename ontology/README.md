@@ -16,7 +16,7 @@
 15. Crystallographic Information Framework or CIF: https://www.iucr.org/resources/cif
 16. OBO Foundry: http://www.obofoundry.org/
 17. RXNO: reaction ontologies: https://github.com/rsc-ontologies/rxno/
-18. The ontology repository for materials science: https://matportal.org/
-19. eNanoMapper Ontology: https://github.com/enanomapper/ontologies
-20. Monod Disease Ontology: https://mondo.monarchinitiative.org/
-21. 
+18. MatPortal: the ontology repository for materials science: https://matportal.org/
+19. BioPortal: https://bioportal.bioontology.org/
+20. eNanoMapper Ontology: https://github.com/enanomapper/ontologies
+21. Monod Disease Ontology: https://mondo.monarchinitiative.org/
