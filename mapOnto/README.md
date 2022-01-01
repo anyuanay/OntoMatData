@@ -8,4 +8,6 @@
 7. Mapping Commons: https://github.com/mapping-commons
 8. OMOP2OBO: https://github.com/callahantiff/OMOP2OBO
 9. Chimera: A Bridge between Big Data Analysitics and Semantic Web Technologies: https://chimera-suite.github.io/
-
+10. OXO Ontology Mapping: https://www.ebi.ac.uk/spot/oxo/
+11. Mondo Disease Ontology (Mondo): harmonizing disease definitions across the world: https://mondo.monarchinitiative.org/
+12. Pistoia Alliane: https://www.pistoiaalliance.org/
