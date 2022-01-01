@@ -19,5 +19,4 @@
 18. The ontology repository for materials science: https://matportal.org/
 19. eNanoMapper Ontology: https://github.com/enanomapper/ontologies
 20. Monod Disease Ontology: https://mondo.monarchinitiative.org/
-21. Ontology Mapping Harvester Tool: https://github.com/agroportal/ontology_mapping_harvester
-22. Identifiers.org Resolution Services: https://identifiers.org/
+21. 
