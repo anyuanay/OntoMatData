@@ -24,3 +24,4 @@
 23. Materials Data Facility: https://connect.materialsdatafacility.org/
 24. ChiMad: https://chimad.northwestern.edu/
 25. Materials Genome Initiative: https://www.mgi.gov/
+26. The Cambridge Structural Database (CSD: https://www.ccdc.cam.ac.uk/solutions/csd-core/components/csd/
